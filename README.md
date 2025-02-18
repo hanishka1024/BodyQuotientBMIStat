@@ -4,8 +4,8 @@ This Android application offers an intuitive and user-friendly solution for calc
 
 #Key Features:
 
-Accurate BMI calculation based on weight and height 🧮
-Dynamic feedback with color-coded BMI categories 🎨
-Tailored motivational quotes based on the calculated BMI 💪
-Sleek and modern design with smooth animations ✨
-Optimized for a seamless user experience 📱
+*Accurate BMI calculation based on weight and height 🧮
+*Dynamic feedback with color-coded BMI categories 🎨
+*Tailored motivational quotes based on the calculated BMI 💪
+*Sleek and modern design with smooth animations ✨
+*Optimized for a seamless user experience 📱
